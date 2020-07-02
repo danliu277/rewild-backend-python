@@ -3,5 +3,5 @@ from __future__ import unicode_literals
 from django.apps import AppConfig
 
 
-class MyapiConfig(AppConfig):
-    name = 'myapi'
+class LanguagesConfig(AppConfig):
+    name = 'languages'
